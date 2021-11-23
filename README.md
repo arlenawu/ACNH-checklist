@@ -1,4 +1,4 @@
-# ACNH-checklist
+# ACNH-spreadsheet-checklist
 
 # Overview
 
